@@ -1,12 +1,12 @@
 h1 {
 	background-color:#F0F0F0;
 	color:#A4A400;
-	font-family: "Lucida Sans Unicode", Helvetica, Arial,sans-serif;
+	font-family:"Lucida Sans Unicode", Helvetica, Arial,sans-serif;
 	font-size:18pt;
 	font-weight:bold;
-	font-style: normal;
-	text-decoration: underline;	
-	text-align:left
+	font-style:normal;
+	text-decoration:underline;	
+	text-align:left;
 }
 #mainheaging{
 	font-size:22pt;
