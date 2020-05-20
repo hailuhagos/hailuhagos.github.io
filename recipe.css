@@ -2,7 +2,7 @@ h1 {
 	background-color:#F0F0F0;
 	color:#A4A400;
 	font-family: "Lucida Sans Unicode", Helvetica, Arial,sans-serif;
-	font-size:18pt
+	font-size:18pt;
 	font-weight:bold;
 	font-style: normal;
 	text-decoration: underline;	
@@ -23,7 +23,7 @@ abbr{
 	text-decoration: underline;	
 }
 pre{
-	font-family:monospace
+	font-family:monospace;
 }
 div blockquote{
 	background-color: yellow;
@@ -33,5 +33,5 @@ ul{
 	list-style-image: url('https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif');
 }
 a{
-	color:#A4A400
+	color:#A4A400;
 }
